@@ -1,0 +1,5 @@
+tun=tun0
+inip=172.16.2.1/28
+inport=123
+outip=fc00:1234:1::16
+outport=123
